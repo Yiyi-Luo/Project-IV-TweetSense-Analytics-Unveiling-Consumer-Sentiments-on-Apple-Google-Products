@@ -49,12 +49,12 @@ For Google, positive reviews are associated with services like "Google Map" and 
 
 Based on the results, we came up with three recommendations:
 
-1.	**Enhance Product Features:** For Apple, addressing the negative feedback on "iPhone Battery" and "iPad Design" should be a priority;
+**1. Enhance Product Features:** For Apple, addressing the negative feedback on "iPhone Battery" and "iPad Design" should be a priority;
 
    
-2.	**Address Brand Confusion:** The negative association with "Bing" in Google's context could indicate confusion due to comparison with Microsoft's search engine. It's crucial to clarify brand messaging and differentiate Google's offerings more clearly;
+**2. Address Brand Confusion:** The negative association with "Bing" in Google's context could indicate confusion due to comparison with Microsoft's search engine. It's crucial to clarify brand messaging and differentiate Google's offerings more clearly;
 
 	
-3.	**Innovate and Communicate:** The mixed sentiments around Google's "Circle/New Social" suggest both interest and skepticism. Google should focus on innovating in the social space and effectively communicate the benefits of its social platforms to turn negativity into positivity.
+**3. Innovate and Communicate:** The mixed sentiments around Google's "Circle/New Social" suggest both interest and skepticism. Google should focus on innovating in the social space and effectively communicate the benefits of its social platforms to turn negativity into positivity.
 
 
