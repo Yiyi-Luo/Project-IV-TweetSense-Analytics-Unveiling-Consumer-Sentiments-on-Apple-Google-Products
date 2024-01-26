@@ -34,6 +34,27 @@ Not surprisingly, the pre-trained Deep learning models showed remarkable perform
 
 The model's ability to accurately identify and classify the minority class in the data is commendable. This is reflected in the impressive **recall and F1 scores**: These metrics are crucial in cases where catching every instance of the minority class is important, and BERTweet's proficiency here demonstrates its effectiveness in dealing with skewed data distributions.
 
+## **Analysis**
+We used two interesting techniques: word clouds and ABSA to analyze tweets. A **word cloud** is a visual tool that shows the most common words in our dataset in a fun, easy-to-read way. The more often a word appears in the tweets, the bigger and bolder it shows up in the cloud. This gives us a quick glance at what topics are most talked about. On the other hand, **ABSA** helps us dig deeper by not just looking at whether tweets are positive or negative, but also understanding what specific aspects of the products people are talking about:
 
+<img width="1788" alt="Screenshot 2024-01-26 at 4 00 51 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/79494388-dd0c-4989-995a-fa29ca4dbdde">
+
+Our result presents a visual breakdown of key terms commonly found in positive and negative reviews about Apple and Google products. For Apple, positive mentions frequently highlight the "Apple Store", "Pop up" and "Novelty," suggesting an appreciation for the shopping experience and new features. On the flip side, negative Apple-related reviews often focus on specific product features like "iPhone Battery" and "iPad Design," indicating areas where consumers might be experiencing dissatisfaction.
+
+For Google, positive reviews are associated with services like "Google Map" and the innovation linked with "Circle/New Social”; Meanwhile, negative sentiments are expressed with terms like "Bing" and "Circle," which might relate to less favorable comparisons within Google's product ecosystem.
+
+<img width="1245" alt="Screenshot 2024-01-26 at 4 02 08 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/8229ccf7-6f6a-4c5b-8e94-8d8a4f3779d7">
+
+## **Recommendations:**
+
+Based on the results, we came up with three recommendations:
+
+1.	**Enhance Product Features:** For Apple, addressing the negative feedback on "iPhone Battery" and "iPad Design" should be a priority;
+
+   
+2.	**Address Brand Confusion:** The negative association with "Bing" in Google's context could indicate confusion due to comparison with Microsoft's search engine. It's crucial to clarify brand messaging and differentiate Google's offerings more clearly;
+
+	
+3.	**Innovate and Communicate:** The mixed sentiments around Google's "Circle/New Social" suggest both interest and skepticism. Google should focus on innovating in the social space and effectively communicate the benefits of its social platforms to turn negativity into positivity.
 
 
