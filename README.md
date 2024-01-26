@@ -20,7 +20,7 @@ This project focuses on evaluating social media  sentiment towards Apple and Goo
 
 2. **Feature Engineering and Preprocessing**: Applied OneHotEncoding to transform categorical data for analytical compatibility; Utilized 'dropna' technique to maintain data integrity and reliability;
 
-3. **Addressing Data Imbalance**: Instead of a binary view, we categorized sentiments into three groups: positive, neutral, and negative. This approach is more aligned with the varied nature of tweets. However, it could make achieving accurate results become more complex. We recognized and addressed the imbalance in the 'Emotion Type' target variable; Employed class weights and KMeanSMOTE strategies to achieve a more balanced dataset for unbiased insights;
+3. **Addressing Data Imbalance**: Categorized sentiments into three groups: positive, neutral, and negative. This approach is more aligned with the varied nature of tweets. We recognized and addressed the imbalance in the 'Emotion Type' target variable; Employed class weights and KMeanSMOTE strategies to achieve a more balanced dataset for unbiased insights;
 
 4. **Preparation for Predictive Modeling**: We performed URL Removal, Mention Removal, Tokenization, Lowercasing, Handling Negations, Stopword Removal, Part-of-Speech Tagging, Lemmatization and Aggregating Processed Words to preprocess the data for our NLP model training and further analysis.
 
