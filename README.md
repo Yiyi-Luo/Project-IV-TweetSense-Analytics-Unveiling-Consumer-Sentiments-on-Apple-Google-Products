@@ -1,4 +1,4 @@
-### **Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products**
+### **TweetSense Analytics: Unveiling Consumer Sentiments on Apple & Google Products**
 **Yiyi Luo**
 
 <img width="1206" alt="Screenshot 2024-01-26 at 4 09 52 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/7bd06f56-56e1-4a21-9c53-f4bc25787991">
