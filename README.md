@@ -1,6 +1,8 @@
 ### **Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products**
 **Yiyi Luo**
 
+<img width="1206" alt="Screenshot 2024-01-26 at 4 09 52 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/7bd06f56-56e1-4a21-9c53-f4bc25787991">
+
 ## **Overview and Business Understanding**
 
 This project focuses on evaluating social media  sentiment towards Apple and Google products, aiming to deliver actionable insights for tech companies and marketers to refine marketing approaches, product development and brand strategy.
@@ -11,6 +13,8 @@ This project focuses on evaluating social media  sentiment towards Apple and Goo
 
 
 ## **Data Understanding and Preparation**
+
+<img width="1826" alt="Screenshot 2024-01-26 at 4 11 31 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/19770086-2c8b-46a7-8876-3f781f6c585a">
 
 1. **Data Selection and Cleaning**: In our initial basic cleaning: we combined, renamed some columns and dropped null values;
 
