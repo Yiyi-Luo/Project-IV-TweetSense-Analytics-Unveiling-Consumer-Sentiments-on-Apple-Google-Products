@@ -24,7 +24,16 @@ This project focuses on evaluating social media  sentiment towards Apple and Goo
 ## **Modeling**
 Trained some **traditional machine learning models** (such as: **SVM, Random Forest, Naive Bayes and XGBoost**) from scratch, but also utilized some pre-trained deep learning models (such as: **BERTweet, RoBERTa, ERNIE, BERT-large, DeBERTa, XLNet, ELECTRA**). These deep learning models have been developed through extensive training, a significant investment in computational resources, large-scale data input, and considerable human effort. 
 
-Not surprisingly, the pre-trained Deep learning models showed remarkable performance, outshining the basic models. Our best model—BERTweet, designed specifically for analyzing tweets, excels in this project due to its ability to handle the informal language found in social media.
+Not surprisingly, the pre-trained Deep learning models showed remarkable performance, outshining the basic models. Our best model—**BERTweet**, designed specifically for analyzing tweets, excels in this project due to its ability to handle the informal language found in social media.
+
+<img width="804" alt="Screenshot 2024-01-26 at 3 51 21 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/71512dbe-fde3-4f48-8235-f614e4a244a5">
+
+**Our best model—BERTweet**, designed specifically for analyzing tweets, excels in this project due to its ability to handle the informal language found in social media. Given the challenge posed by the imbalanced nature of our dataset, BERTweet's results are particularly noteworthy. 
+
+<img width="697" alt="Screenshot 2024-01-26 at 3 55 12 PM" src="https://github.com/Yiyi-Luo/Project-IV-TweetSense-Analytics-Unveiling-Consumer-Sentiments-on-Apple-Google-Products/assets/149438809/2da14a5a-2e74-4adb-a388-0295535200e8">
+
+The model's ability to accurately identify and classify the minority class in the data is commendable. This is reflected in the impressive **recall and F1 scores**: These metrics are crucial in cases where catching every instance of the minority class is important, and BERTweet's proficiency here demonstrates its effectiveness in dealing with skewed data distributions.
+
 
 
 
